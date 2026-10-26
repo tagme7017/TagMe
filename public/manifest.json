@@ -1,0 +1,10 @@
+{
+  "name": "TAGME - ASUME",
+  "short_name": "TAGME",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#cfe6ff",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "description": "Compañía que cuida, tecnología que acompaña."
+}
